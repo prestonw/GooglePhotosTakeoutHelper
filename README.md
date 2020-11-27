@@ -1,6 +1,3 @@
-![PyPI](https://img.shields.io/pypi/v/google-photos-takeout-helper)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/TheLastGimbus)
-
 # Google Photos Takeout Helper
 ## What is this for?
 If you ever want to move from Google Photos to other platform/solution, your fastest choice to export all photos is [Google Takeout](https://takeout.google.com/)
